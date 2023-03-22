@@ -1,5 +1,5 @@
 ### Hi there 👋, welcome to my profile!!!
-<img src=>
+<img src=https://github.com/leecaixuan/leecaixuan/blob/main/gifimage.gif>
 
 Love reading📚, watching movies🎬 and singing🎵
 
